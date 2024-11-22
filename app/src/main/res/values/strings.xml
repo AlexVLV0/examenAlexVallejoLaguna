@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">examenAlexVallejoLaguna</string>
+    <string name="campoIntentTitulo">titulo</string>
+    <string name="campoIntentContenido">contenido</string>
+    <string name="nadarecibido">NADA RECIBIDO</string>
+    <string name="abrircon">Abrir con: ...</string>
+    <string name="ejemploMail">ejemplo@gmail.com</string>
+    <string name="todas">Todas</string>
+    <string name="politica">Política</string>
+    <string name="economia">Economía</string>
+    <string name="cultura">Cultura</string>
+    <string name="deportes">Deportes</string>
+    <string name="titulonoticiapol_tica">Titulo noticia política</string>
+    <string name="titulonoticiaeconomia">Titulo noticia economia</string>
+    <string name="titulonoticiacultura">Titulo noticia cultura</string>
+    <string name="titulonoticiadeportes">Titulo noticia deportes</string>
+    <string name="contenidonoticiapol_tica">Contenido noticia política</string>
+    <string name="contenidonoticiaeconomia">Contenido noticia economia</string>
+    <string name="contenidonoticiacultura">Contenido noticia cultura</string>
+    <string name="contenidonoticiadeportes">Contenido noticia deportes</string>
+    <string name="botonCompartir">Compartir</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">examenAlexVallejoLaguna</string>
+    <string name="campoIntentTitulo">title</string>
+    <string name="campoIntentContenido">content</string>
+    <string name="nadarecibido">NOTHING RECEIVED</string>
+    <string name="abrircon">Open with: ...</string>
+    <string name="ejemploMail">example@gmail.com</string>
+    <string name="todas">EVERY</string>
+    <string name="politica">Politics</string>
+    <string name="economia">Economy</string>
+    <string name="cultura">Culture</string>
+    <string name="deportes">Sports</string>
+    <string name="titulonoticiapol_tica">Title news polítics</string>
+    <string name="titulonoticiaeconomia">Titulo noticia economia</string>
+    <string name="titulonoticiacultura">Titulo noticia cultura</string>
+    <string name="titulonoticiadeportes">Titulo noticia deportes</string>
+    <string name="contenidonoticiapol_tica">Contenido noticia política</string>
+    <string name="contenidonoticiaeconomia">Contenido noticia economia</string>
+    <string name="contenidonoticiacultura">Contenido noticia cultura</string>
+    <string name="contenidonoticiadeportes">Contenido noticia deportes</string>
+    <string name="botonCompartir">Share</string>
+
+</resources>
